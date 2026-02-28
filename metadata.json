@@ -1,0 +1,7 @@
+{
+  "name": "Studio Reverb Pro",
+  "description": "A high-end audio processing web app that applies studio-grade 'Fruity Reverb' style effects to your audio files locally.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
